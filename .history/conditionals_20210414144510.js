@@ -43,7 +43,7 @@ if (checkFirst || checkSecond || checkThird) {
 // Then change the values of the variables to see if your conditional still works. 
 let a = 30;
 let b = 20;
-let c = 31;
+let c = 30;
 
 if (c > a && c > b) {
     console.log("Largest value: " + c);
