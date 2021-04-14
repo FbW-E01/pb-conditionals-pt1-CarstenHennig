@@ -146,4 +146,3 @@ else {
 }
 
 // 12. BONUS CHALLENGE: Play around with each of your results, i.e., make sure they are dynamic to different inputs; is there a more efficient way of writing your code?; etc. 
-// I've checked all with different values whether it works 
